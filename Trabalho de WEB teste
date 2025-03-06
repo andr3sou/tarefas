@@ -6,15 +6,34 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>As marcas de Roupa que mais vemnderam em 2024</h1>
+    <h1>As 10 MARCAS MAIS VALIOSAS do MUNDO</h1>
+   
     <br>    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRic0RYkYfDqudbmIHn1imzH7gsYRVDanqnVQ&s" alt="">
+    
+    <!-- primeiro texto -->
     <h3>Nada como usar uma roupa confortável, durável e tudo a ver com o seu estilo, não é mesmo?
 <br> Para ajudar nessa escolha, saber quais são as melhores marcas de roupa pode ser bem útil, 
 <br>pois você evita muita dor de cabeça comprando peças de roupa que não atendam às suas necessidades.</h3>
     <p><H3>Adidas, Nike e Hering são algumas marcas de roupa do mercado, mas para escolher a ideal para você,
         <br> é preciso se atentar a critérios como a popularidade e o atendimento ao consumidor das empresas. 
-        <br> Para te ajudar nessa missão, eu irei servir como o seu guia </H3>
+        <br> Para te ajudar nessa missão de escolher uma boa marca para 
+     <!-- começo da lista -->
+        <p> 
+      <p>
+    <p> <h1>1:Nike US$ 31,3 bi</h1>
 
+
+    <p> <h1>2:Louis Vuitton US$ 26,3 bi</h1>
+
+
+    <p> <h1>3:Channel US$ 19,4 bi</h1>
+
+
+    <p> <h1>4:Gucci US$ 17,8 bi</h1>
+
+
+    <p> <h1>5:Adidas US$ 15,7 bi-</h1>
+    
 </body>
 
 </html>
