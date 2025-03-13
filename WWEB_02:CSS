@@ -8,10 +8,8 @@
 <body>
 
     <h1>O que é CSS?</h1>
-
-    <p>CSS significa <b>Cascading Style Sheets</b> (Folhas de Estilo em Cascata).</p>
-
-    <p>Ele é utilizado para definir o estilo dos elementos de uma página HTML, como cores, tamanhos, fontes e layouts.</p>
+    <h3> CSS significa <b>Cascading Style Sheets</b> (Folhas de Estilo em Cascata).
+        <br>Ele é utilizado para definir o estilo dos elementos de uma página HTML, como cores, tamanhos, fontes e layouts.</h3>
 
     <h2>Tipos de CSS:</h2>
   <p> <h3> Existe 3 maneiras de usar o CSS elas são:
@@ -37,10 +35,21 @@
    <br>Essa é a melhor prática, pois facilita a manutenção e reutilização do código.
 
     </h3>
-    
+      <h2>Versões e evolução do CSS</h2>
+      <p><h3> Ao longo dos anos tem sido um fenômeno fascinante A evolução do CSS no meio do desenvolvimento web. Desde seus primeiros dias, 
+       <br> quando era usado principalmente para estilizar documentos HTML simples, até se tornar uma linguagem robusta e sofisticada capaz 
+        <br> de criar layouts complexos e designs interativos, o CSS percorreu um longo caminho.</h3>
+     
+        <p><h3>No início, o CSS era limitado em suas capacidades, oferecendo principalmente formatação básica para textos e elementos de layout 
+       <br> simples. À medida que a complexidade das páginas web aumentou e a demanda por designs mais ricos cresceu, surgiu a necessidade de uma
+        <br> linguagem de estilo mais poderosa.</h3></p>
 
+        <p><h3>Com a chegada do CSS2, vimos melhorias significativas. Introduziu recursos como posicionamento absoluto e relativo, seletores 
+           <br> avançados e suporte para folhas de estilo em mídias específicas. No entanto, as limitações persistiam, especialmente em relação à
+            <br> criação de layouts complexos e responsivos.</h3></p>
+        
+            <p><h3></h3></p>
 
-  
 
 </body>
 </html>
