@@ -48,7 +48,26 @@
            <br> avançados e suporte para folhas de estilo em mídias específicas. No entanto, as limitações persistiam, especialmente em relação à
             <br> criação de layouts complexos e responsivos.</h3></p>
         
-            <p><h3></h3></p>
+            <p><h3>A verdadeira revolução veio com o advento do CSS3. Esse grande passo evolutivo trouxe consigo uma série de módulos que introduziram
+               <br>  funcionalidades revolucionárias. Entre eles, destacam-se:</h3></p>
+                    
+               <p><h4> <b>1-Flexbox:</b> Uma abordagem mais eficiente para criar layouts flexíveis, 
+                        permitindo a criação de designs mais responsivos e dinâmicos.</h4></p>
+        
+                <p><h4><b>2-Grid Layout</b>  Uma ferramenta poderosa para criar layouts bidimensionais, 
+                    <br>proporcionando controle preciso sobre as colunas e linhas de um design, transformando 
+                   <br> a maneira como os desenvolvedores abordam a estrutura de páginas.</h4></p>    
+                
+                <p><h4><b>3-Transições e Animações:</b> CSS3 trouxe a capacidade de criar transições suaves e
+                    <br> animações diretamente no CSS, antes muitas vezes realizadas por meio de JavaScript.</h4></p>   
+                
+                <p><h4><b>4-Transformações 2D e 3D:</b> A capacidade de aplicar transformações complexas a elementos HTML, 
+                    <br>permitindo experiências mais ricas e interativas.</h4></p>    
+
+                <p><h4><b>5-Media Queries:</b>  Essencial para o desenvolvimento responsivo, as Media Queries permitem que os
+                    <br> estilos se adaptem dinamicamente a diferentes tamanhos de tela e dispositivos.</h4></p>    
+    
+            
 
 
 </body>
