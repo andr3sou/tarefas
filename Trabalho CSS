@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>O que é CSS?</title>
+</head>
+<body>
+
+    <h1>O que é CSS?</h1>
+
+    <p>CSS significa <b>Cascading Style Sheets</b> (Folhas de Estilo em Cascata).</p>
+
+    <p>Ele é utilizado para definir o estilo dos elementos de uma página HTML, como cores, tamanhos, fontes e layouts.</p>
+
+    <h2>Tipos de CSS:</h2>
+  <p> <h3> Existe 3 maneiras de usar o CSS elas são:
+      <br><b>CSS Inline; CSS Interno; CSS Externo</b>.
+    <br>E irei te explicar cada uma delas, e suas utilidades 
+          
+    </h3>
+
+    <h2>CSS Inline:</h2>
+<p> <h3>
+<p>O estilo é aplicado diretamente dentro das tags HTML.É útil para
+<br>pequenas alterações,mas difícil de manter em projetos grandes.
+    </h3>
+
+    <h2>CSS Interno:</h2>
+  <p> <h3>Os estilos são escritos dentro da tag <b>style</b> no próprio arquivo HTML.
+  <br>Funciona bem para páginas menores, mas pode deixar o código desorganizado em projetos maiores.
+
+    </h3>
+
+    <h2>CSS Externo:</h2>
+<p> <h3>Os estilos ficam em um arquivo separado (.css) e são vinculados ao HTML.
+   <br>Essa é a melhor prática, pois facilita a manutenção e reutilização do código.
+
+    </h3>
+    
+
+
+  
+
+</body>
+</html>
