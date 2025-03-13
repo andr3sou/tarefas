@@ -8,6 +8,7 @@
 <body>
 
     <h1>O que é CSS?</h1>
+  <img src=" https://cdn-icons-png.freepik.com/256/919/919826.png?semt=ais_hybrid  ">
     <h3> CSS significa <b>Cascading Style Sheets</b> (Folhas de Estilo em Cascata).
         <br>Ele é utilizado para definir o estilo dos elementos de uma página HTML, como cores, tamanhos, fontes e layouts.</h3>
 
@@ -65,7 +66,23 @@
                     <br>permitindo experiências mais ricas e interativas.</h4></p>    
 
                 <p><h4><b>5-Media Queries:</b>  Essencial para o desenvolvimento responsivo, as Media Queries permitem que os
-                    <br> estilos se adaptem dinamicamente a diferentes tamanhos de tela e dispositivos.</h4></p>    
+                    <br> estilos se adaptem dinamicamente a diferentes tamanhos de tela e dispositivos.</h4></p>   
+        <p>
+          <p>
+            <h3>E isso é o basico do <b>CSS</b> para as pessoas entenderem, espero que eu tenha explicado bem o bastante </h3>
+            <p>Fontes:</p>
+            <p><h5> <a href="https://www.godaddy.com/resources/br/artigos/voce-sabe-o-que-e-css-entenda-como-funciona-e-para-que-serve" target="_blank">
+              godaddy
+            </a>
+              <p>  <a href="https://pt.wikipedia.org/wiki/Cascading_Style_Sheets" target="_blank">
+              Wikipedia
+            </a>
+                <p>  <a href="https://www.hostinger.com.br/tutoriais/diferenca-entre-estilos-css" target="_blank">
+              hostinger
+            </a>
+            
+            </h5>
+          
     
             
 
