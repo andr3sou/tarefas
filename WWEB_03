@@ -2,17 +2,65 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Unless_tabelas</title>
+    <title>Unless_tabela</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <h1 class="titulo">Tablela de Peças de COMPUTADOR</h1>
-  <h2>Atualmenmte a maioria das pessias querem adiquirir o seu <b>PC</b>, e sabemos que não é tão acessivel para todos pelo preço de suas peças.
-    <br> E essa tabela será para ajudar as pessoas que procuram peças de qualidade e com custo benefício, e falaremios dessas peças: Placas de Video;
-    <br>processador; memoria RAM; SSD ou HD; placa mãe; gabinete 
+    <h1>Preços dos produtos do mercadinho na promoção</h1>
 
-</h2>
 
+    <table>
+        <tr>
+            <th>Produto</th>
+            <th>Peso/Quantidade</th>
+            <th>Preço</th>
+            
+        </tr>
+        <tr>
+            <td>Leite</td>
+            <td>1L</td>
+            <td> 4,90$</td>
+            <tr>
+                <td>Alface </td>
+                <td>1kg</td>
+                <td> 5,00$ </td>
+            </tr>
+            <td>Carne</td>
+            <td>1kg</td>
+            <td> 29,90$ </td>
+            <tr>
+                <td>Pão de forma </td>
+                <td>450g</td>
+                <td>6,99$</td>
+            </tr>
+            <td>Arroz </td>
+            <td>5kg</td>
+            <td>23,90$</td>
+            <tr>
+                <td>Feijão </td>
+                <td>1kg</td>
+                <td>6,99$</td>
+            </tr>
+            <tr>
+                <td>Café </td>
+                <td>500g</td>
+                <td>19,90$</td>
+            </tr>
+        </tr>
+
+    </table>
+
+
+
+
+    <h2>Minha lista de compras</h2>
+    <ul>
+        <li>Arroz</li>
+        <li>Feijão</li>
+        <li>Café</li>
+        <li>Farinha</li>
+        <li>Leite</li>
+    </ul>
 </body>
 </html>
