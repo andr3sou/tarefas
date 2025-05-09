@@ -1,0 +1,137 @@
+<!DOCTYPE html>
+
+<html lang="pt">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>My Site</title>
+
+<style>
+
+body {
+
+font-family: Arial, sans-serif;
+
+margin: 0;
+
+padding: 0;
+
+text-align: center;
+
+background-color: #f4f4f4;
+
+}
+
+header {
+
+background-color: #8f07c5;
+
+color: white;
+
+padding: 20px;
+
+font-size: 24px;
+
+opacity: 0;
+animation  FADEIN 1.5 ease-in forwards;
+
+}
+@keyframes FADEIN{
+ form{opacity: 0;}
+ to{opacity: 1;}
+
+
+}
+
+.container {
+
+padding: 20px;
+
+}
+
+.gallery {
+
+display: flex;
+
+justify-content: center;
+
+gap: 10px;
+
+flex-wrap: wrap;
+
+}
+
+.gallery img {
+
+width: 200px;
+
+height: 150px;
+
+object-fit: cover;
+
+border-radius: 5px;
+
+}
+
+footer {
+
+background-color: #333;
+
+color: white;
+
+padding: 10px;
+
+margin-top: 20px;
+
+}
+
+</style>
+
+</head>
+
+<body>
+
+<header>
+
+Meu Site Pessoal
+
+</header>
+
+<div class="container">
+
+<h2>Sobre Mim</h2>
+
+<p>15 anos</p>
+<p>Bauru/SP</p>
+
+
+<h2>Meus Gostos</h2>
+<p>Gosto de basquetebol, de desenhar, e de aprender coisas novas</p>
+
+<h2>Galeria</h2>
+
+<div class="gallery">
+
+<img src="assets/michael jordan.webp">
+
+<img src="assets/Vincent_van_Gogh.jpg">
+
+<img src="assets/NEYMAR.jpg">
+
+</div>
+
+</div>
+
+<footer>
+
+&copy; 2025 André. Todos os direitos reservados.
+
+</footer>
+
+</body>
+
+</html>
