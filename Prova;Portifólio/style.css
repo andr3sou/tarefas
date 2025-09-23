@@ -1,0 +1,73 @@
+/* Reset e base */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+
+body {
+  background-color: var(--cinza-claro);
+  color: #333;
+  line-height: 1.6;
+}
+
+/*Cabeçalho */
+header {
+  background:  #6a0dad;
+  color:  #ff7b00;;
+  padding: 20px;
+  text-align: center;
+}
+
+header nav a {
+  color: #ff7b00;
+  margin: 0 15px;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+header nav a:hover {
+  color:  #ff7b00;
+}
+
+h1 {
+  font-size: 35px;
+  margin-bottom: 10px;
+  text-align: center;
+}
+
+h2 {
+  font-size: 30px;
+  margin-bottom: 10px;
+  writing-mode: horizontal-tb;
+}
+
+h3{
+  font-size: 25px;
+  margin-bottom: 10px;
+}
+
+ p {
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+
+.all img{
+  width: 250px; 
+  height: auto;
+  background-color: white;
+  padding: 2px;
+  min-width: 250px;
+  box-shadow: 0 2px 5px  #6a0dad;;
+  border-radius: 20px;
+}
+
+section {
+
+  max-width: 1000px;
+  margin: 20px auto;
+  padding:15px;
+}
+
