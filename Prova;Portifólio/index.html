@@ -1,56 +1,76 @@
- <!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Portfólio Pessoal</title>
-  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="style.css">
-</head>
-<body>
-
-  <header>
-    <h2>Meu Portfólio</h2>
-    <nav>
-      <a href="#sobre">Sobre</a>
-      <a href="#projetos">Projetos</a>
-      <a href="#contato">Contato</a>
-    </nav>
-  </header>
+/* Reset e base */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
 
 
-  <section class="all">
-    <h1>André Santos de Souza</h1>
-    <img src="assets/tyler the creator + frank ocean.jpeg" alt="test">
-    <h2 id="sobre">Sobre Mim</h2>
-    <p>VLBLABLABLÇABLABLA</p>
-  </section> 
+body {
+  background-color: var(--cinza-claro);
+  color: #333;
+  line-height: 1.6;
+}
 
+/*Cabeçalho */
+header {
+  background:  #6a0dad;
+  color:  #ff7b00;;
+  padding: 20px;
+  text-align: center;
+}
 
-   <section class="projects">
-    <h2 id="projetos">Meus Projetos</h2>
-      <div class="card">
-        <h3>Projeto </h3>
-        <p>umprojetoqueeufiznnalNLANAlnsldsasahjsdnsaeuvoumejogardeumapontedia3denovembrofdhdfka</p>
+header nav a {
+  color: #ff7b00;
+  margin: 0 15px;
+  text-decoration: none;
+  font-weight: 600;
+}
 
+header nav a:hover {
+  color:  #ff7b00;
+}
 
+h1 {
+  font-size: 35px;
+  margin-bottom: 10px;
+  text-align: center;
+}
 
-      </div>
-    </section>
+h2 {
+  font-size: 30px;
+  margin-bottom: 10px;
+  writing-mode: horizontal-tb;
+}
 
+h3{
+  font-size: 25px;
+  margin-bottom: 10px;
+}
 
+ p {
+  font-size: 20px;
+  margin-bottom: 20px;
+}
 
-  <section>
-    <h2 id="contato">Contato</h2>
-    <p>Você pode me encontrar em:</p>
-    <p>Email: <a href="">andresou688@gmail.com</a></p>
-    <p>GitHub: <a href="https://github.com/andr3sou">github.com/andr3sou</a></p>
-  </section>
+.all img{
+  display: block;
+  margin: 0 auto;
+  width: 720px; 
+  height: 480px;
+  background-color: white;
+  padding: 2px;
+  min-width: 250px;
+  box-shadow: 0 2px 5px  #6a0dad;;
+  border-radius: 15px;
+  
+}
 
- 
-  <footer>
-    <p>  </p>
-  </footer>
+section {
+  align-items: center;
+  max-width: 1000px;
+  margin: 20px auto;
+  padding:15px;
+}
 
-</body>
-</html>
