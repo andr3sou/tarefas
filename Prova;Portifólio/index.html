@@ -1,76 +1,83 @@
-/* Reset e base */
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-  font-family: "Poppins", sans-serif;
-}
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Portfólio Pessoal</title>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header>
+    <h1>Meu Portfólio</h1>
+    <nav>
+      <a href="#sobre">Sobre</a>
+      <a href="#projeto">Projetos</a>
+      <a href="#contato">Contato</a>
+    </nav>
+  </header>
 
 
-body {
-  background-color: var(--cinza-claro);
-  color: #333;
-  line-height: 1.6;
-}
+  <section class="all">
+    <h2>André Santos de Souza</h2>
+    <img src="assets/tyler the creator + frank ocean.jpeg" alt="me" class="test">
+    
+    <h2 id="sobre">Sobre Mim</h2>
+    <p>Meu nome é André, eu nasci em Manaus, mas agora moro em Bauru desde 2017.Tenho varios todos os tipos de hobbies, e 
+        tenho sonho de ser um programador ou entrar na área de TI , pois gosto de programar e tenho isso como objetivo.
+    </p>
+  </section> 
 
-/*Cabeçalho */
-header {
-  background:  #6a0dad;
-  color:  #ff7b00;;
-  padding: 20px;
-  text-align: center;
-}
 
-header nav a {
-  color: #ff7b00;
-  margin: 0 15px;
-  text-decoration: none;
-  font-weight: 600;
-}
+  <section class="projects">
 
-header nav a:hover {
-  color:  #ff7b00;
-}
+  <h2 id="projeto">Meus Projetos</h2>
+  <div class="card-container">
+    <div class="card">
+      <h3>Primeiro Projeto</h3>
+      <img src="assets/tyler the creator + frank ocean.jpeg" alt="One" class="project">
+      <p>BLBÇALBNAKNAKNAJKKNALKJNALJNHAJLHANJANJANJAKNJKANAJKLNAJKLN
+        <br>AJKNAKJANKJANkja   
+      </p>
+    </div>
+  </div>
 
-h1 {
-  font-size: 35px;
-  margin-bottom: 10px;
-  text-align: center;
-}
-
-h2 {
-  font-size: 30px;
-  margin-bottom: 10px;
-  writing-mode: horizontal-tb;
-}
-
-h3{
-  font-size: 25px;
-  margin-bottom: 10px;
-}
-
- p {
-  font-size: 20px;
-  margin-bottom: 20px;
-}
-
-.all img{
-  display: block;
-  margin: 0 auto;
-  width: 720px; 
-  height: 480px;
-  background-color: white;
-  padding: 2px;
-  min-width: 250px;
-  box-shadow: 0 2px 5px  #6a0dad;;
-  border-radius: 15px;
+  <div class="card-container">
+    <div class="card">
+      <h3>Segundo Projeto</h3>
+      <img src="assets/tyler the creator + frank ocean.jpeg" alt="One" class="project">
+      <p>BLBÇALBNAKNAKNAJKKNALKJNALJNHAJLHANJANJANJAKNJKANAJKLNAJKLNAJKNAKJANKJANkja   
+      </p>
+    </div>
+  </div>
   
-}
+  <div class="card-container">
+    <div class="card">
+      <h3>Terceiro Projeto</h3>
+      <img src="assets/tyler the creator + frank ocean.jpeg" alt="One" class="project">
+      <p>BLBÇALBNAKNAKNAJKKNALKJNALJNHAJLHANJANJANJAKNJKANAJKLNAJKLNAJKNAKJANKJANkja   
+      </p>
+    </div>
 
-section {
-  align-items: center;
-  max-width: 1000px;
-  margin: 20px auto;
-  padding:15px;
-}
+  </div>
+</section>
 
+
+
+  <section>
+    <h2 id="contato">Contato</h2>
+    
+    <p>Você pode me encontrar em:</p>
+    <p>Email: <a href="">andresou688@gmail.com</a></p>
+    <p>GitHub: <a href="https://github.com/andr3sou">github.com/andr3sou</a></p>
+  </section>
+
+ 
+<footer>
+  <p>© 2025 André Santos de Souza — Todos os direitos reservados</p>
+</footer>
+
+
+</body>
+</html>
